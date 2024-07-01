@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabrochefort@gmail.com
+	name = Gabrielle Rochefort
